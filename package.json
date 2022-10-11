@@ -1,0 +1,20 @@
+{
+  "name": "vue3-kit",
+  "version": "1.0.0",
+  "description": "A Vue3 templates kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": [],
+  "author": "zhengpanone",
+  "license": "ISC"
+}
